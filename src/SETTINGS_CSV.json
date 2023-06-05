@@ -1,0 +1,32 @@
+{
+    "linux": {
+        "input": [
+            "code",
+            "school",
+            "thesis",
+            "output_extraction"
+        ],
+        "output": [
+            "code",
+            "school",
+            "thesis",
+            "output_extraction",
+            "merged_files"
+        ]
+    },
+    "darwin": {
+        "input":[
+            "school",
+            "m2",
+            "thesis",
+            "output_extraction"
+        ],
+        "output":[
+            "school",
+            "m2",
+            "thesis",
+            "output_extraction",
+            "merged_files"
+        ]
+    }
+}
